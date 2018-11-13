@@ -1,3 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+p.header {
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
 body{
 	margin: 0;
 	padding: 0;
@@ -19,7 +35,7 @@ header{
 	padding: 4%;
 }
 
-ul {
+ul.navbar {
 	list-style-type: none;
 	/* text-align: center; */
 	padding: 14px 16px;
@@ -33,14 +49,55 @@ li {
     float: left;
 }
 
-li a {
+li a.navigation {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 30px;
+    padding: 14px 33.3px;
     text-decoration: none;
 }
 
-li a:hover {
+li a:hover.navigation {
     background-color: rgb(41, 145, 0);
+}
+
+/* for the scroll on the journal page */
+div.ex1 {
+    margin: auto;
+    background-color: #333;
+    color: #333;
+    width: 150px;
+    height: 200px;
+    overflow: scroll;
+}
+li.scroll1 {
+    float: none;
+}
+li a.scroll {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 14px;
+    text-decoration: none;
+    
+}
+li a:hover.scroll {
+    /*color: black;*/
+    background-color: rgb(41, 145, 0);
+}
+h2 {
+    text-align: center;
+}
+ul.ex1_1 {
+	list-style-type: none;
+	/* text-align: center; */
+	padding: 14px 16px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+footer {
+    text-align: center;
 }
