@@ -98,6 +98,20 @@ ul.ex1_1 {
     background-color: #333;
 }
 
+/*For the beat and beat Seattle Map*/
+div.picture{
+    float: left;
+    width: 50%; 
+    height: auto;
+    object-fit: cover;
+    /*padding: 50px;*/
+}
+div.map{
+    float: left;
+    width: 50%; 
+    height: auto;
+    object-fit: cover;
+}
 footer {
     text-align: center;
 }
