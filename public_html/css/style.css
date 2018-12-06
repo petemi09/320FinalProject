@@ -1,16 +1,108 @@
 /* this is for the pie chart */
+img.d1 {
+    width: 85%;
+}
+img.d2 {
+    width: 85%;
+}
 
+
+img.t1 {
+    width: 90%;
+}
+img.t2 {
+    width: 80%;
+}
+img.t3 {
+    width: 80%;
+}
+img.t4 {
+    width: 80%;
+}
+
+
+
+
+
+img.w1 {
+    width: 90%;
+}
+
+img.w2 {
+    width: 90%;
+}
+
+img.w3 {
+    width: 90%;
+}
+img.w4 {
+    width: 90%;
+}
+
+img.sum1 {
+    width: 107%;
+}
+img.sum2 {
+    width: 107%;
+}
+img.win1 {
+    width: 107%;
+}
+img.win2 {
+    width: 107%;
+}
+
+
+div.heat1 {
+    position: relative;
+    width: 115%;
+    
+}
+div.heat2 {
+    position: relative;
+    width: 115%;
+    
+}
+
+
+img.pie5 {
+    width: 105%
+}
+img.pie6 {
+    width: 105%;
+}
+
+img.pie3 {
+    width: 105%
+}
+img.pie4 {
+    width: 105%;
+}
+
+img.vs {
+    width: 110%;
+}
 
 img.pie1 {
-    width: 140%;
-    padding-right: 50px;
+    /* width: 160%;
+    padding-right: 90px; */
+    width: 120%;
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto;
+    width: 120%; */
 }
 
 img.pie2 {
-    width: 110%;
-    padding-left: 50px;
-    /*padding: 15px;*/
-    /* padding-right: 30px; */
+    /* width: 140%;
+    padding-left: 50px; */
+    width: 100%;
+    display: block;
+    /* padding: 50px; */
+    margin-left: 50px;
+    /* margin-left: auto;
+    margin-right: auto;
+    width: 120%; */
 }
 
 /* ----------------- */
