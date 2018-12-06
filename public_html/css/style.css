@@ -1,8 +1,31 @@
-img.img1 {
+/* this is for the pie chart */
+
+
+img.pie1 {
+    width: 140%;
+}
+img.pie2 {
+    width: 110%;
+    /*padding: 15px;*/
+    padding-right: 30px;
+}
+
+/* ----------------- */
+img.img1_1 {
     width: 120%;
 }
 
+img.img1_2 {
+    width: 90%;
+}
 
+img.img1_3 {
+    width: 120%;
+}
+
+img.img1_4 {
+    width: 120%;
+}
 /* above is for all the pictures and stuff */
 
 #myBtn {
