@@ -3,11 +3,14 @@
 
 img.pie1 {
     width: 140%;
+    padding-right: 50px;
 }
+
 img.pie2 {
     width: 110%;
+    padding-left: 50px;
     /*padding: 15px;*/
-    padding-right: 30px;
+    /* padding-right: 30px; */
 }
 
 /* ----------------- */
